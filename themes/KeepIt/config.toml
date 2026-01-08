@@ -170,13 +170,14 @@
       paginate = 6
   # Social config in home page
   [params.social]
+    GitHub = "tmax818"
     Linkedin = "xxx"
     Twitter = "xxx"
     Instagram = "xxx"
     Facebook = "xxx"
     Telegram = "xxx"
     Medium = "xxx"
-    Gitlab = "xxx"
+    Gitlab = "tmax818"
     Youtubelegacy = "xxx"
     Youtubecustom = "xxx"
     Youtubechannel = "xxx"

@@ -170,7 +170,6 @@
       paginate = 6
   # Social config in home page
   [params.social]
-    GitHub = "xxx"
     Linkedin = "xxx"
     Twitter = "xxx"
     Instagram = "xxx"

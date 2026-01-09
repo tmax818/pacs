@@ -15,7 +15,7 @@
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Go here"
   [[menu.main]]
     weight = 2
     identifier = "tags"
@@ -31,6 +31,14 @@
     post = ""
     name = "Categories"
     url = "/categories/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "something"
+    pre = ""
+    post = ""
+    name = "Something"
+    url = "/something/"
     title = ""
 
 [params]
@@ -61,7 +69,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "My KeepIt site"
+      name = "Tyler Maxwell"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -150,19 +158,19 @@
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "test1@example.com"
+      gravatarEmail = "tmax818@mac.com"
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
-      title = ""
+      title = "The site, bro"
       # subtitle shown in home page
-      subtitle = "This is my KeepIt site"
+      subtitle = "Tyler is cool!!!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "This is the coolest site ever"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -171,23 +179,23 @@
   # Social config in home page
   [params.social]
     GitHub = "tmax818"
-    Linkedin = "xxx"
-    Twitter = "xxx"
+    Linkedin = "tylermaxwell"
+    #Twitter = "xxx"
     Instagram = "xxx"
-    Facebook = "xxx"
+    #Facebook = "xxx"
     Telegram = "xxx"
-    Medium = "xxx"
+    #Medium = "xxx"
     Gitlab = "tmax818"
-    Youtubelegacy = "xxx"
-    Youtubecustom = "xxx"
-    Youtubechannel = "xxx"
-    Tumblr = "xxx"
+    #Youtubelegacy = "xxx"
+    #Youtubecustom = "xxx"
+    Youtubechannel = "UCTtQJwBVAoEA1Ob1-UvJZ9Q"
+    #Tumblr = "xxx"
     Quora = "xxx"
     Keybase = "xxx"
     Pinterest = "xxx"
     Reddit = "xxx"
     Codepen = "xxx"
-    FreeCodeCamp = "xxx"
+    FreeCodeCamp = "mrm305"
     Bitbucket = "xxx"
     Stackoverflow = "xxx"
     Weibo = "xxx"
@@ -195,11 +203,11 @@
     VK = "xxx"
     Flickr = "xxx"
     Xing = "xxx"
-    Snapchat = "xxx"
+    #Snapchat = "xxx"
     Soundcloud = "xxx"
     Spotify = "xxx"
-    Bandcamp = "xxx"
-    Paypal = "xxx"
+    #Bandcamp = "xxx"
+    $Paypal = "xxx"
     Fivehundredpx = "xxx"
     Mix = "xxx"
     Goodreads = "xxx"
@@ -222,17 +230,17 @@
     Behance = "xxx"
     Dribbble = "xxx"
     Wordpress = "xxx"
-    Vine = "xxx"
+    #Vine = "xxx"
     Googlescholar = "xxx"
     Researchgate = "xxx"
     Mastodon = "xxx"
-    Thingiverse = "xxx"
+    Thingiverse = "tmax818"
     Devto = "xxx"
     Gitea = "xxx"
     XMPP = "xxx"
     Matrix = "xxx"
     Bilibili = "xxx"
-    Email = "xxx"
+    Email = "tyler.maxwell@lausd.net"
     RSS = "xxx"
 
   # Page global config

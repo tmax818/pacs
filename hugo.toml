@@ -2,3 +2,14 @@ baseURL = 'https://tmax818.com/'
 languageCode = 'en-us'
 title = 'Tyler Maxwell'
 theme = 'KeepIt'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+[params]
+  math = true

@@ -420,7 +420,7 @@ vine:
   Prefix: https://vine.co/
   Title: Vine
   Icon:
-    Class: fab fa-vine fa-fw
+    Class: fab fa-bluesky fa-fw
 
 # 054: Google Scholar
 googlescholar:

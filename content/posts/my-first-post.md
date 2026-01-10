@@ -2,6 +2,7 @@
 date = '2026-01-09T14:50:25-08:00'
 draft = false
 title = 'My First Post'
+subtitle = 'this is Tyler just messing around'
 +++
 
 # title
@@ -55,6 +56,11 @@ $$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
 $$ \ce{CO2 + C -> 2 CO} $$
 
 $$ \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} $$
+
+
+## youtube
+
+{{< youtube j7waN0I8fQ8 >}}
 
 
 Visit the [Hugo](https://gohugo.io) website!

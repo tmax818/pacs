@@ -52,5 +52,9 @@ JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y
 
 $$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
 
+$$ \ce{CO2 + C -> 2 CO} $$
+
+$$ \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} $$
+
 
 Visit the [Hugo](https://gohugo.io) website!

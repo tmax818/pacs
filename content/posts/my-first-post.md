@@ -4,9 +4,40 @@ draft = false
 title = 'My First Post'
 +++
 
+# title
+
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
+
+## diagrams
+
+```goat
+      .               .                .               .--- 1          .-- 1     / 1
+     / \              |                |           .---+            .-+         +
+    /   \         .---+---.         .--+--.        |   '--- 2      |   '-- 2   / \ 2
+   +     +        |       |        |       |    ---+            ---+          +
+  / \   / \     .-+-.   .-+-.     .+.     .+.      |   .--- 3      |   .-- 3   \ / 3
+ /   \ /   \    |   |   |   |    |   |   |   |     '---+            '-+         +
+ 1   2 3   4    1   2   3   4    1   2   3   4         '--- 4          '-- 4     \ 4
+
+```
+
+#### mermaid
+
+{{< mermaid >}}
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts prevail!
+    John-->Alice: Great!
+    John-->Bob: How about you?
+    Bob-->John: Jolly good!
+{{< /mermaid >}}   
 
 ### math
 

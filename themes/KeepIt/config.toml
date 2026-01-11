@@ -69,7 +69,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Tyler Maxwell"
+      name = "Tyler Tries to Teach Science"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -162,7 +162,7 @@
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
-      title = "The site, bro"
+      title = "Look at all my social media!!!"
       # subtitle shown in home page
       subtitle = "Tyler is cool!!!"
       # whether to use typeit animation for subtitle

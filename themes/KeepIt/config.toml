@@ -180,7 +180,6 @@
   [params.social]
     GitHub = "tmax818"
     Linkedin = "tylermaxwell"
-    Bluesky = "xxx"
     #Twitter = "xxx"
     #Instagram = "xxx"
     #Facebook = "xxx"
@@ -243,6 +242,7 @@
     #Bilibili = "xxx"
     Email = "tyler.maxwell@lausd.net"
     RSS = "xxx"
+    Bluesky = "tmax818.bsky.social"
 
   # Page global config
   [params.page]

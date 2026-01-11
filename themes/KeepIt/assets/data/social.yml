@@ -414,11 +414,11 @@ wordpress:
   Icon:
     Class: fab fa-wordpress fa-fw
 
-# 053: Vine
-vine:
+# 053: TikTok
+tiktok:
   Weight: 53
-  Prefix: https://vine.co/
-  Title: Vine
+  Prefix: https://tiktok.com
+  Title: TikTok
   Icon:
     Class: fab fa-tiktok fa-fw
 

@@ -1,7 +1,11 @@
 baseURL = 'https://tmax818.com/'
 languageCode = 'en-us'
-title = 'Tyler Maxwell'
+title = "Mr. M's Science Page"
 theme = 'KeepIt'
+
+[author]
+  name = "Mr. M"
+  homepage = "https://tmax818.com/"
 
 [markup]
   [markup.goldmark]

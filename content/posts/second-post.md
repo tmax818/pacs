@@ -1,16 +1,16 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: "Second Post"
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+date: 2026-01-10T19:16:29-08:00
+lastmod: 2026-01-10T19:16:29-08:00
 draft: true
-author: ""
-authorLink: ""
-description: ""
+author: "Mr. Maxwell"
+authorLink: "https://tmax818.com"
+description: "Second Test Post"
 license: ""
 images: []
 
-tags: []
+tags: [Chemistry]
 categories: []
 
 featuredImage: ""

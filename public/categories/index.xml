@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Tyler Maxwell</title>
-    <link>http://localhost:34467/categories/</link>
-    <description>Recent content in Categories on Tyler Maxwell</description>
+    <title>Categories on Mr. M&#39;s Science Page</title>
+    <link>http://localhost:37223/categories/</link>
+    <description>Recent content in Categories on Mr. M&#39;s Science Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Mar 2020 21:29:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:34467/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37223/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>http://localhost:34467/categories/documentation/</link>
+      <link>http://localhost:37223/categories/documentation/</link>
       <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
-      <guid>http://localhost:34467/categories/documentation/</guid>
+      <guid>http://localhost:37223/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:34467/categories/markdown/</link>
+      <link>http://localhost:37223/categories/markdown/</link>
       <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
-      <guid>http://localhost:34467/categories/markdown/</guid>
+      <guid>http://localhost:37223/categories/markdown/</guid>
       <description></description>
     </item>
   </channel>

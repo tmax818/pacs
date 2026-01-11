@@ -2,16 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mr. M&#39;s Science Page</title>
-    <link>https://tmax818.com/categories/</link>
+    <link>http://localhost:39233/categories/</link>
     <description>Recent content in Categories on Mr. M&#39;s Science Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://tmax818.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Mar 2020 21:29:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:39233/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>https://tmax818.com/categories/documentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tmax818.com/categories/documentation/</guid>
+      <link>http://localhost:39233/categories/documentation/</link>
+      <pubDate>Fri, 06 Mar 2020 21:29:01 +0800</pubDate>
+      <guid>http://localhost:39233/categories/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:39233/categories/markdown/</link>
+      <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate>
+      <guid>http://localhost:39233/categories/markdown/</guid>
       <description></description>
     </item>
   </channel>

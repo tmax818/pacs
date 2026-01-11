@@ -3,7 +3,7 @@ title: "Second Post"
 subtitle: ""
 date: 2026-01-10T19:16:29-08:00
 lastmod: 2026-01-10T19:16:29-08:00
-draft: true
+draft: false
 author: "Mr. Maxwell"
 authorLink: "https://tmax818.com"
 description: "Second Test Post"

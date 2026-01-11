@@ -75,7 +75,7 @@
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
@@ -89,7 +89,7 @@
     # whether to show the author
     author = true
     # site creation time
-    since = 2022
+    since = 2025
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
@@ -136,7 +136,7 @@
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
-    placeholder = ""
+    placeholder = "search"
     # max number of results length
     maxResultLength = 10
     # snippet length of the result
@@ -162,20 +162,20 @@
       # URL of avatar shown in home page
       avatarURL = ""
       # title shown in home page (HTML format is supported)
-      title = "Look at all my social media!!!"
+      title = "Class Content and Information"
       # subtitle shown in home page
-      subtitle = "Tyler is cool!!!"
+      subtitle = "Mr. M is the best!!!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = "This is the coolest site ever"
+      disclaimer = "Most recent blogs are listed first"
     # Home page posts
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 6
+      paginate = 3
   # Social config in home page
   [params.social]
     GitHub = "tmax818"
@@ -191,7 +191,7 @@
     Youtubechannel = "UCTtQJwBVAoEA1Ob1-UvJZ9Q"
     #Tumblr = "xxx"
     #Quora = "xxx"
-    Keybase = "tmax818"
+    #Keybase = "tmax818"
     #Pinterest = "xxx"
     #Reddit = "xxx"
     Codepen = "tmax818"
@@ -201,23 +201,23 @@
     #Weibo = "xxx"
     #Odnoklassniki = "xxx"
     #VK = "xxx"
-    Flickr = "204056977@N02"
-    Xing = "Tyler_Maxwell"
+    #Flickr = "204056977@N02"
+    #Xing = "Tyler_Maxwell"
     #Snapchat = "xxx"
     #Soundcloud = "xxx"
     #Spotify = "xxx"
     #Bandcamp = "xxx"
     #Paypal = "xxx"
     #Fivehundredpx = "xxx"
-    Mix = "tmax818"
+    #Mix = "tmax818"
     #Goodreads = "xxx"
     #Lastfm = "xxx"
     #Foursquare = "xxx"
-    Hackernews = "tmax8181"
+    #Hackernews = "tmax8181"
     #Kickstarter = "xxx"
     #Patreon = "xxx"
     #Steam = "xxx"
-    Twitch = "tmax818"
+    #Twitch = "tmax818"
     #Strava = "xxx"
     #Skype = "xxx"
     #Whatsapp = "xxx"
@@ -238,7 +238,7 @@
     Devto = "tmax818"
     #Gitea = "xxx"
     #XMPP = "xxx"
-    Matrix = "xxx"
+    #Matrix = "xxx"
     #Bilibili = "xxx"
     Email = "tyler.maxwell@lausd.net"
     RSS = true
@@ -251,7 +251,7 @@
     # whether to hide a page from search results
     hiddenFromSearch = false
     # whether to enable twemoji
-    twemoji = false
+    twemoji = true
     # whether to enable lightgallery
     lightgallery = false
     # whether to enable the ruby extended syntax
@@ -322,7 +322,7 @@
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
@@ -336,7 +336,7 @@
       Mix = false
     # Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]

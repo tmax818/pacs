@@ -241,7 +241,7 @@
     Matrix = "xxx"
     #Bilibili = "xxx"
     Email = "tyler.maxwell@lausd.net"
-    RSS = "xxx"
+    RSS = true
     Bluesky = "tmax818.bsky.social"
 
   # Page global config

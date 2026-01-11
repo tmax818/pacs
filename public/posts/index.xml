@@ -1,94 +1,139 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Mr. M&#39;s Science Page</title>
-        <link>http://localhost:37223/posts/</link>
+        <link>https://tmax818.com/posts/</link>
         <description>All Posts | Mr. M&#39;s Science Page</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Jan 2026 19:16:29 -0800</lastBuildDate><atom:link href="http://localhost:37223/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Theme Documentation - Basics</title>
-    <link>http://localhost:37223/posts/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>KeepIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Content</title>
-    <link>http://localhost:37223/posts/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-content/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>KeepIt</strong> theme.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>http://localhost:37223/posts/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>http://localhost:37223/posts/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>KeepIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item>
-<item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://localhost:37223/posts/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>http://localhost:37223/posts/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.11" rel="noopener noreferrer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreferrer">Mermaid</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Emoji Support</title>
-    <link>http://localhost:37223/posts/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>http://localhost:37223/posts/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreferrer">ECharts</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>http://localhost:37223/posts/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/Fastbyte01/KeepIt/releases/tag/v0.2.0" rel="noopener noreferrer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreferrer">Mapbox GL JS</a>
- library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - music Shortcode</title>
-    <link>http://localhost:37223/posts/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:37223/posts/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreferrer">APlayer</a>
- and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreferrer">MetingJS</a>
-.</p>]]></description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Jan 2026 19:16:29 -0800</lastBuildDate><atom:link href="https://tmax818.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://tmax818.com/posts/my-first-post/</link>
+    <pubDate>Fri, 09 Jan 2026 14:50:25 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://tmax818.com/posts/my-first-post/</guid>
+    <description><![CDATA[<h1 id="title">title</h1>
+<h2 id="introduction">Introduction</h2>
+<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
+<h2 id="diagrams">diagrams</h2>
+
+
+
+<div class="goat svg-container ">
+  
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      font-family="Menlo,Lucida Console,monospace"
+      
+        viewBox="0 0 680 121"
+      >
+      <g transform='translate(8,16)'>
+<path d='M 440,0 L 464,0' fill='none' stroke='currentColor'></path>
+<path d='M 576,0 L 584,0' fill='none' stroke='currentColor'></path>
+<path d='M 408,16 L 440,16' fill='none' stroke='currentColor'></path>
+<path d='M 552,16 L 560,16' fill='none' stroke='currentColor'></path>
+<path d='M 144,32 L 176,32' fill='none' stroke='currentColor'></path>
+<path d='M 176,32 L 208,32' fill='none' stroke='currentColor'></path>
+<path d='M 296,32 L 312,32' fill='none' stroke='currentColor'></path>
+<path d='M 312,32 L 328,32' fill='none' stroke='currentColor'></path>
+<path d='M 440,32 L 464,32' fill='none' stroke='currentColor'></path>
+<path d='M 576,32 L 584,32' fill='none' stroke='currentColor'></path>
+<path d='M 384,48 L 408,48' fill='none' stroke='currentColor'></path>
+<path d='M 512,48 L 536,48' fill='none' stroke='currentColor'></path>
+<path d='M 128,64 L 144,64' fill='none' stroke='currentColor'></path>
+<path d='M 144,64 L 160,64' fill='none' stroke='currentColor'></path>
+<path d='M 192,64 L 208,64' fill='none' stroke='currentColor'></path>
+<path d='M 208,64 L 224,64' fill='none' stroke='currentColor'></path>
+<path d='M 440,64 L 464,64' fill='none' stroke='currentColor'></path>
+<path d='M 576,64 L 584,64' fill='none' stroke='currentColor'></path>
+<path d='M 408,80 L 440,80' fill='none' stroke='currentColor'></path>
+<path d='M 552,80 L 560,80' fill='none' stroke='currentColor'></path>
+<path d='M 440,96 L 464,96' fill='none' stroke='currentColor'></path>
+<path d='M 576,96 L 584,96' fill='none' stroke='currentColor'></path>
+<path d='M 128,64 L 128,80' fill='none' stroke='currentColor'></path>
+<path d='M 144,32 L 144,64' fill='none' stroke='currentColor'></path>
+<path d='M 160,64 L 160,80' fill='none' stroke='currentColor'></path>
+<path d='M 176,0 L 176,32' fill='none' stroke='currentColor'></path>
+<path d='M 192,64 L 192,80' fill='none' stroke='currentColor'></path>
+<path d='M 208,32 L 208,64' fill='none' stroke='currentColor'></path>
+<path d='M 224,64 L 224,80' fill='none' stroke='currentColor'></path>
+<path d='M 280,48 L 280,64' fill='none' stroke='currentColor'></path>
+<path d='M 312,0 L 312,32' fill='none' stroke='currentColor'></path>
+<path d='M 344,48 L 344,64' fill='none' stroke='currentColor'></path>
+<path d='M 408,16 L 408,48' fill='none' stroke='currentColor'></path>
+<path d='M 408,48 L 408,80' fill='none' stroke='currentColor'></path>
+<path d='M 440,0 L 440,16' fill='none' stroke='currentColor'></path>
+<path d='M 440,16 L 440,32' fill='none' stroke='currentColor'></path>
+<path d='M 440,64 L 440,80' fill='none' stroke='currentColor'></path>
+<path d='M 440,80 L 440,96' fill='none' stroke='currentColor'></path>
+<path d='M 536,32 L 536,48' fill='none' stroke='currentColor'></path>
+<path d='M 536,48 L 536,64' fill='none' stroke='currentColor'></path>
+<path d='M 8,80 L 24,48' fill='none' stroke='currentColor'></path>
+<path d='M 24,48 L 48,0' fill='none' stroke='currentColor'></path>
+<path d='M 56,80 L 72,48' fill='none' stroke='currentColor'></path>
+<path d='M 624,48 L 640,16' fill='none' stroke='currentColor'></path>
+<path d='M 640,16 L 648,0' fill='none' stroke='currentColor'></path>
+<path d='M 640,80 L 648,64' fill='none' stroke='currentColor'></path>
+<path d='M 24,48 L 40,80' fill='none' stroke='currentColor'></path>
+<path d='M 48,0 L 72,48' fill='none' stroke='currentColor'></path>
+<path d='M 72,48 L 88,80' fill='none' stroke='currentColor'></path>
+<path d='M 624,48 L 640,80' fill='none' stroke='currentColor'></path>
+<path d='M 640,80 L 648,96' fill='none' stroke='currentColor'></path>
+<path d='M 640,16 L 648,32' fill='none' stroke='currentColor'></path>
+<path d='M 576,0 A 16,16 0 0,0 560,16' fill='none' stroke='currentColor'></path>
+<path d='M 552,16 A 16,16 0 0,0 536,32' fill='none' stroke='currentColor'></path>
+<path d='M 296,32 A 16,16 0 0,0 280,48' fill='none' stroke='currentColor'></path>
+<path d='M 328,32 A 16,16 0 0,1 344,48' fill='none' stroke='currentColor'></path>
+<path d='M 560,16 A 16,16 0 0,0 576,32' fill='none' stroke='currentColor'></path>
+<path d='M 280,64 A 16,16 0 0,0 264,80' fill='none' stroke='currentColor'></path>
+<path d='M 280,64 A 16,16 0 0,1 296,80' fill='none' stroke='currentColor'></path>
+<path d='M 344,64 A 16,16 0 0,0 328,80' fill='none' stroke='currentColor'></path>
+<path d='M 344,64 A 16,16 0 0,1 360,80' fill='none' stroke='currentColor'></path>
+<path d='M 576,64 A 16,16 0 0,0 560,80' fill='none' stroke='currentColor'></path>
+<path d='M 536,64 A 16,16 0 0,0 552,80' fill='none' stroke='currentColor'></path>
+<path d='M 560,80 A 16,16 0 0,0 576,96' fill='none' stroke='currentColor'></path>
+<text text-anchor='middle' x='8' y='100' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='40' y='100' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='56' y='100' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='88' y='100' fill='currentColor' style='font-size:1em'>4</text>
+<text text-anchor='middle' x='128' y='100' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='160' y='100' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='192' y='100' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='224' y='100' fill='currentColor' style='font-size:1em'>4</text>
+<text text-anchor='middle' x='264' y='100' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='296' y='100' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='328' y='100' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='360' y='100' fill='currentColor' style='font-size:1em'>4</text>
+<text text-anchor='middle' x='480' y='4' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='480' y='36' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='480' y='68' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='480' y='100' fill='currentColor' style='font-size:1em'>4</text>
+<text text-anchor='middle' x='600' y='4' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='600' y='36' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='600' y='68' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='600' y='100' fill='currentColor' style='font-size:1em'>4</text>
+<text text-anchor='middle' x='664' y='4' fill='currentColor' style='font-size:1em'>1</text>
+<text text-anchor='middle' x='664' y='36' fill='currentColor' style='font-size:1em'>2</text>
+<text text-anchor='middle' x='664' y='68' fill='currentColor' style='font-size:1em'>3</text>
+<text text-anchor='middle' x='664' y='100' fill='currentColor' style='font-size:1em'>4</text>
+</g>
+
+    </svg>
+  
+</div>
+<h4 id="mermaid">mermaid</h4>
+<div class="mermaid" id="id-1"></div>
+<h3 id="math">math</h3>
+\[
+\begin{aligned}
+KL(\hat{y} || y) &= \sum_{c=1}^{M}\hat{y}_c \log{\frac{\hat{y}_c}{y_c}} \\
+JS(\hat{y} || y) &= \frac{1}{2}(KL(y||\frac{y+\hat{y}}{2}) + KL(\hat{y}||\frac{y+\hat{y}}{2}))
+\end{aligned}
+\]<h3 id="chem">chem</h3>
+$$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$$$ \ce{CO2 + C -> 2 CO} $$$$ \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} $$<h2 id="youtube">youtube</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/j7waN0I8fQ8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<p>Visit the <a href="https://gohugo.io" target="_blank" rel="noopener noreferrer">Hugo</a>
+ website!</p>]]></description>
 </item>
 </channel>
 </rss>
